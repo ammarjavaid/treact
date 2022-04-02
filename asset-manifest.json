@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/treact/static/css/main.ba8a68fb.css",
+    "main.js": "/treact/static/js/main.5c215b25.js",
+    "static/media/12.jpg": "/treact/static/media/12.f9dbe9877b9acb23df93.jpg",
+    "static/media/10.jpg": "/treact/static/media/10.877df8461fbe62a95da2.jpg",
+    "static/media/7.jpg": "/treact/static/media/7.8c544d48d49b5454048e.jpg",
+    "static/media/8.jpg": "/treact/static/media/8.c73b5067dd3813e8bbb8.jpg",
+    "static/media/5.jpg": "/treact/static/media/5.626e2119040318ba1413.jpg",
+    "static/media/9.jpg": "/treact/static/media/9.8176d3a6f877a5b73d83.jpg",
+    "static/media/6.jpg": "/treact/static/media/6.8800df3370c0bda20c0f.jpg",
+    "static/media/11.jpg": "/treact/static/media/11.738753f1f6e8fc7a6fc2.jpg",
+    "static/media/4.png": "/treact/static/media/4.41d4af34e9fb154299f1.png",
+    "static/media/13.png": "/treact/static/media/13.3cdce84cf7ea691ecca9.png",
+    "static/media/3.png": "/treact/static/media/3.ac794b18868e8a81958d.png",
+    "index.html": "/treact/index.html",
+    "main.ba8a68fb.css.map": "/treact/static/css/main.ba8a68fb.css.map",
+    "main.5c215b25.js.map": "/treact/static/js/main.5c215b25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8a68fb.css",
+    "static/js/main.5c215b25.js"
+  ]
+}
